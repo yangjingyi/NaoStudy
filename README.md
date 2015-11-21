@@ -9,8 +9,8 @@ Git是基本技能，请大家百度“廖雪峰git教程”，自行学习
 布置作业后，大家最好先谷歌，实在找不到方法了可以找我～  
 视作业完成情况，我会给出比较好的实现代码，有不会的可以参考之。
 ## 相关学习资料  
-git教程：
-<li><a href='http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000'>廖雪峰git教程</a>  
-opencv配置教程（<b>请务必配置opencv2</b>）：
-<li><a href='http://my.phirobot.com/blog/2014-02-opencv_configuration_in_vs.html'>win+vs配置opencv</a> 
-<li><a href='http://blog.csdn.net/cenziboy/article/details/7570139'>ubuntu+codeblocks配置opencv</a>
+####git教程：
+<li><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">廖雪峰git教程</a>  
+####opencv配置教程（<b>请务必配置opencv2</b>）：
+<li><a href="http://my.phirobot.com/blog/2014-02-opencv_configuration_in_vs.html">win+vs配置opencv</a> 
+<li><a href="http://blog.csdn.net/cenziboy/article/details/7570139">ubuntu+codeblocks配置opencv</a>
